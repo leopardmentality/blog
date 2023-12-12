@@ -1,0 +1,4 @@
+[submodule "jazzlearnsmandarin/public"]
+	path = jazzlearnsmandarin/public
+	url = https://github.com/leopardmentality/jazzlearnsmandarin.github.io.git
+	branch = main
